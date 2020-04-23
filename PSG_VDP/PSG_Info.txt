@@ -1,0 +1,10 @@
+Title: "LIVE AFTER DIE!" BY PANDA 97!
+Artist: Some rmx by Macros
+Comments: ProTracker 3.5
+
+Type: Pro Tracker v3.5 (PT3)
+
+Frame rate: 50Hz
+Chip frequency: 1750000Hz
+Frames count: 6972
+Loop Frame: 60
